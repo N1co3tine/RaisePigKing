@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/background1.jfif</file>
+        <file>res/bigflower.png</file>
+        <file>res/blackpig.jpg</file>
+        <file>res/smallflower.jfif</file>
+        <file>res/Background2.jfif</file>
+        <file>res/background.jpg</file>
+        <file>res/song.mp3</file>
+        <file>res/button2.jpg</file>
+        <file>res/button3.png</file>
+        <file>res/button2.png</file>
+        <file>res/button.png</file>
+        <file>res/button1.png</file>
+        <file>res/blue1.png</file>
+        <file>res/blue2.png</file>
+        <file>res/red1.png</file>
+        <file>res/red2.png</file>
+        <file>res/blank1.jpg</file>
+        <file>res/bigflower (1).png</file>
+        <file>res/blackpig.png</file>
+        <file>res/smallflower.png</file>
+    </qresource>
+</RCC>
